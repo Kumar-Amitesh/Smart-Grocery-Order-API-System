@@ -22,7 +22,7 @@ This is a backend service for a Smart Grocery Order API, built using Python and 
 
 ## Technologies
 
-- **Python 3.x**
+- **Python 3.1.0**
 - **Flask**: Web framework
 - **Unittest**: For writing and running tests
 - **JSON**: For API responses and requests
@@ -41,8 +41,7 @@ This is a backend service for a Smart Grocery Order API, built using Python and 
         "name": "Apple",
         "price_per_unit": 10.0,
         "unit": "kg"
-      },
-      ...
+      }
     ]
     ```
 
